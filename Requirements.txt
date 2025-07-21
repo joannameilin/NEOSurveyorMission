@@ -1,0 +1,11 @@
+subprocess
+time
+os
+xmltodict
+pandas
+shutil
+glob
+numpy
+plotly.graph_objects 
+xml.etree.ElementTree
+collections
