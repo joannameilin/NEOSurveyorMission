@@ -12,3 +12,6 @@ Matches trksubs to designations (removed noisy tracklets). Generates **three typ
 > .digest2_ml: trksubs formatted for machine learning models. Last column is titled "orbtype." Orbtype = 0 indicates NEO, orbtype = 1 indicates MBA
 
 This notebook also runs the optimal thresholds and machine learning code if needed and analyzes the results. Will print the number of NEOs mistaken as MBAs in the optimal thresholds and print ML results while saving ML confusion matrices to the user's desktop. 
+
+## NEOSM_Data_Visualization
+Creates interactive density heatmaps given large digest2 score breakdown files (in csv format). 
